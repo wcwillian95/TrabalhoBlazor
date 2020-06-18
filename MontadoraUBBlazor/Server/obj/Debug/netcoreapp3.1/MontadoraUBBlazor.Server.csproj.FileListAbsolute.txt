@@ -1,0 +1,1088 @@
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.csprojAssemblyReference.cache
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.AssemblyInfoInputs.cache
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.AssemblyInfo.cs
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.csproj.CoreCompileInputs.cache
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorAssemblyInfo.cache
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorAssemblyInfo.cs
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Client.StaticWebAssets.xml
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.StaticWebAssets.xml
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.exe
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.deps.json
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.runtimeconfig.json
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.runtimeconfig.dev.json
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.pdb
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.Views.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.Views.pdb
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.AspNetIdentity.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.Storage.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Client.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Shared.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Client.pdb
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Shared.pdb
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.TagHelpers.input.cache
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.TagHelpers.output.cache
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorCoreGenerate.cache
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorTargetAssemblyInfo.cache
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorTargetAssemblyInfo.cs
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.Views.pdb
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.csproj.CopyComplete
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\staticwebassets\MontadoraUBBlazor.Server.StaticWebAssets.Manifest.cache
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\staticwebassets\MontadoraUBBlazor.Server.StaticWebAssets.xml
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.pdb
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Client.StaticWebAssets.xml
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.StaticWebAssets.xml
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.exe
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.deps.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.runtimeconfig.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.runtimeconfig.dev.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.Views.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.Views.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.AspNetIdentity.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.Storage.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Client.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Shared.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Client.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Shared.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.csprojAssemblyReference.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorAssemblyInfo.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorAssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.TagHelpers.input.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.TagHelpers.output.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorCoreGenerate.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorTargetAssemblyInfo.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorTargetAssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.Views.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.csproj.CopyComplete
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\staticwebassets\MontadoraUBBlazor.Server.StaticWebAssets.Manifest.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\staticwebassets\MontadoraUBBlazor.Server.StaticWebAssets.xml
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.genruntimeconfig.cache
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Client.StaticWebAssets.xml
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.StaticWebAssets.xml
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.exe
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.deps.json
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.runtimeconfig.json
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.runtimeconfig.dev.json
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.pdb
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.Views.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.Views.pdb
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.AspNetIdentity.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.Storage.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Client.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Shared.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Client.pdb
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Shared.pdb
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.csprojAssemblyReference.cache
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.csproj.CoreCompileInputs.cache
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorAssemblyInfo.cache
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorAssemblyInfo.cs
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.AssemblyInfoInputs.cache
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.AssemblyInfo.cs
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.TagHelpers.input.cache
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.TagHelpers.output.cache
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorCoreGenerate.cache
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorTargetAssemblyInfo.cache
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorTargetAssemblyInfo.cs
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.Views.pdb
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.csproj.CopyComplete
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\staticwebassets\MontadoraUBBlazor.Server.StaticWebAssets.Manifest.cache
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\staticwebassets\MontadoraUBBlazor.Server.StaticWebAssets.xml
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.pdb
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Client.StaticWebAssets.xml
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.StaticWebAssets.xml
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.exe
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.deps.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.runtimeconfig.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.runtimeconfig.dev.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.Views.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.Views.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.AspNetIdentity.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.Storage.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Client.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Shared.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Client.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Shared.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.csprojAssemblyReference.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorAssemblyInfo.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorAssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.TagHelpers.input.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.TagHelpers.output.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorCoreGenerate.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorTargetAssemblyInfo.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorTargetAssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.Views.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.csproj.CopyComplete
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\staticwebassets\MontadoraUBBlazor.Server.StaticWebAssets.Manifest.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\staticwebassets\MontadoraUBBlazor.Server.StaticWebAssets.xml
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.genruntimeconfig.cache
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Client.StaticWebAssets.xml
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.StaticWebAssets.xml
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.exe
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.deps.json
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.runtimeconfig.json
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.runtimeconfig.dev.json
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.pdb
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.Views.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.Views.pdb
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.AspNetIdentity.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.Storage.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Client.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Shared.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Client.pdb
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Shared.pdb
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.csprojAssemblyReference.cache
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.csproj.CoreCompileInputs.cache
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorAssemblyInfo.cache
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorAssemblyInfo.cs
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.AssemblyInfoInputs.cache
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.AssemblyInfo.cs
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.TagHelpers.input.cache
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.TagHelpers.output.cache
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorCoreGenerate.cache
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorTargetAssemblyInfo.cache
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorTargetAssemblyInfo.cs
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.Views.pdb
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.csproj.CopyComplete
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\staticwebassets\MontadoraUBBlazor.Server.StaticWebAssets.Manifest.cache
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\staticwebassets\MontadoraUBBlazor.Server.StaticWebAssets.xml
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.pdb
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Client.StaticWebAssets.xml
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.StaticWebAssets.xml
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.exe
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.deps.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.runtimeconfig.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.runtimeconfig.dev.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.Views.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.Views.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.AspNetIdentity.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.Storage.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Client.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Shared.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Client.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Shared.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.csprojAssemblyReference.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorAssemblyInfo.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorAssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.TagHelpers.input.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.TagHelpers.output.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorCoreGenerate.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorTargetAssemblyInfo.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorTargetAssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.Views.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.csproj.CopyComplete
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\staticwebassets\MontadoraUBBlazor.Server.StaticWebAssets.Manifest.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\staticwebassets\MontadoraUBBlazor.Server.StaticWebAssets.xml
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.genruntimeconfig.cache
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.deps.json
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.exe
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.pdb
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.dev.json
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.AspNetCore.Components.WebAssembly.DebugProxy.runtimeconfig.json
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Mdb.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\BlazorDebugProxy\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Client.StaticWebAssets.xml
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.StaticWebAssets.xml
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.exe
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.deps.json
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.runtimeconfig.json
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.runtimeconfig.dev.json
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.pdb
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.Views.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.Views.pdb
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.AspNetIdentity.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.Storage.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Net.Http.Json.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Client.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Shared.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Client.pdb
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\bin\Debug\netcoreapp3.1\MontadoraUBBlazor.Shared.pdb
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.csprojAssemblyReference.cache
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.csproj.CoreCompileInputs.cache
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorAssemblyInfo.cache
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorAssemblyInfo.cs
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.AssemblyInfoInputs.cache
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.AssemblyInfo.cs
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.TagHelpers.input.cache
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.TagHelpers.output.cache
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorCoreGenerate.cache
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorTargetAssemblyInfo.cache
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.RazorTargetAssemblyInfo.cs
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.Views.pdb
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.csproj.CopyComplete
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\staticwebassets\MontadoraUBBlazor.Server.StaticWebAssets.Manifest.cache
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\staticwebassets\MontadoraUBBlazor.Server.StaticWebAssets.xml
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.pdb
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Server\obj\Debug\netcoreapp3.1\MontadoraUBBlazor.Server.genruntimeconfig.cache

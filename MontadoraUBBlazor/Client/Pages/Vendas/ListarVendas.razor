@@ -1,0 +1,81 @@
+﻿@page "/vendas/listavendas"
+@page "/vendas/"
+@using MontadoraUBBlazor.Shared.Models
+@inject HttpClient http
+<h3>Lista de Vendas</h3>
+
+<div>
+    <a href="/vendas/cadastrovendas" class="btn btn-primary">Cadastrar Vendas</a>
+</div>
+
+<div>
+    @if (vendas == null)
+    {
+        <text>Carregando...</text>
+    }
+    else if (vendas.Count == 0)
+    {
+        <text>Nenhuma Venda foi cadastrada no banco de dados</text>
+    }
+    else
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th> Id </th>
+                    <th> Codigo da Peça </th>
+                    <th> Qtd de Peças </th>
+                    <th> Valor Unit. da Peça </th>
+                    <th> Valor Total </th>
+                    <th> ID do Cliente </th>
+                    <th> Nome do Cliente </th>
+                    <th> ID do Funcionario </th>
+                    <th> Nome do Funcionario </th>
+                    <th> Data da Venda </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var venda in vendas)
+                {
+                <tr>
+                    <td>@venda.ID</td>
+                    <td>@venda.CodPecaVenda</td>
+                    <td>@venda.QtdPecaVenda</td>
+                    <td>@venda.ValorUnitPecaVenda</td>
+                    <td>@venda.ValorTotalVenda</td>
+                    <td>@venda.IDClienteVenda</td>
+                    <td>@venda.NomeClienteVenda</td>
+                    <td>@venda.IDFuncVenda</td>
+                    <td>@venda.NomeFuncVenda</td>
+                    <td>@venda.DataVenda</td>
+                    <td>
+                        <button class="btn btn-danger" @onclick="@(() => ExcluirVendas(venda.ID))">Excluir</button>
+                    </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>
+
+@code {
+    List<Venda> vendas;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadVendas();
+    }
+
+    async Task LoadVendas()
+    {
+        vendas = await http.GetFromJsonAsync<List<Venda>>("api/Vendas");
+    }
+
+    async Task ExcluirVendas(int ID)
+    {
+        await http.DeleteAsync($"api/Vendas/{ID}");
+        await LoadVendas();
+
+
+    }
+}

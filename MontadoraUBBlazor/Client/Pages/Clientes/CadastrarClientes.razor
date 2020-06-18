@@ -1,0 +1,82 @@
+﻿@page "/clientes/cadastroclientes"
+@inject HttpClient http
+@inject NavigationManager navigation
+<h3>Cadastrar Clientes</h3>
+
+<EditForm Model="@cliente" OnValidSubmit="@CadastrarCliente">
+    <div class="form-group">
+        <label>Nome</label>
+        <InputText @bind-Value="@cliente.NomeCliente"></InputText>
+        <ValidationMessage For="(() => cliente.NomeCliente)"></ValidationMessage>
+    </div>
+
+    <div class="form-group">
+        <label>CPF</label>
+        <InputText @bind-Value="@cliente.CPFCliente"></InputText>
+        <ValidationMessage For="(() => cliente.CPFCliente)"></ValidationMessage>
+    </div>
+
+    <div class="form-group">
+        <label>Data de Nascimento</label>
+        <InputDate @bind-Value="@cliente.NascimentoCliente"></InputDate>
+        <ValidationMessage For="(() => cliente.NascimentoCliente)"></ValidationMessage>
+    </div>
+
+    <div class="form-group">
+        <label>Telefone</label>
+        <InputText @bind-Value="@cliente.TelefoneCliente"></InputText>
+        <ValidationMessage For="(() => cliente.TelefoneCliente)"></ValidationMessage>
+    </div>
+
+    <div class="form-group">
+        <label>E-mail</label>
+        <InputText @bind-Value="@cliente.EmailCliente"></InputText>
+        <ValidationMessage For="(() => cliente.EmailCliente)"></ValidationMessage>
+    </div>
+
+    <div class="form-group">
+        <label>CEP</label>
+        <InputText @bind-Value="@cliente.CEPCliente"></InputText>
+        <ValidationMessage For="(() => cliente.CEPCliente)"></ValidationMessage>
+    </div>
+
+    <div class="form-group">
+        <label>Rua e numero, apartamento e andar se for o caso</label>
+        <InputText @bind-Value="@cliente.RuaCliente"></InputText>
+        <ValidationMessage For="(() => cliente.RuaCliente)"></ValidationMessage>
+    </div>
+
+    <div class="form-group">
+        <label>Bairro</label>
+        <InputText @bind-Value="@cliente.BairroCliente"></InputText>
+        <ValidationMessage For="(() => cliente.BairroCliente)"></ValidationMessage>
+    </div>
+
+    <div class="form-group">
+        <label>Cidade</label>
+        <InputText @bind-Value="@cliente.CidadeCliente"></InputText>
+        <ValidationMessage For="(() => cliente.CidadeCliente)"></ValidationMessage>
+    </div>
+
+    <div class="form-group">
+        <label>Estado</label>
+        <InputText @bind-Value="@cliente.EstadoCliente"></InputText>
+        <ValidationMessage For="(() => cliente.EstadoCliente)"></ValidationMessage>
+    </div>
+
+    <div class="form-group">
+        <label>Data de Cadastro</label>
+        <InputDate @bind-Value="@cliente.DataCadastroCliente"></InputDate>
+        <ValidationMessage For="(() => cliente.DataCadastroCliente)"></ValidationMessage>
+    </div>
+
+    <button type="submit" class="btn btn-primary" @onclick="@(async () => await CadastrarCliente())">Cadastrar</button>
+</EditForm>
+@code {
+    Cliente cliente = new Cliente();
+    async Task CadastrarCliente()
+    {
+        await http.PostAsJsonAsync("api/cliente", cliente);
+        navigation.NavigateTo("clientes");
+    }
+}

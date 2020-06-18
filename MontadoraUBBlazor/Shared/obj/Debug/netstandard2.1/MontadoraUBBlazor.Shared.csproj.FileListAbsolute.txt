@@ -1,0 +1,63 @@
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Shared\bin\Debug\netstandard2.1\MontadoraUBBlazor.Shared.deps.json
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Shared\bin\Debug\netstandard2.1\MontadoraUBBlazor.Shared.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Shared\bin\Debug\netstandard2.1\MontadoraUBBlazor.Shared.pdb
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.csprojAssemblyReference.cache
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.AssemblyInfoInputs.cache
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.AssemblyInfo.cs
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.csproj.CoreCompileInputs.cache
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.dll
+C:\Users\jose-\Desktop\PP\MontadoraWebBlazor\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Shared\bin\Debug\netstandard2.1\MontadoraUBBlazor.Shared.deps.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Shared\bin\Debug\netstandard2.1\MontadoraUBBlazor.Shared.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Shared\bin\Debug\netstandard2.1\MontadoraUBBlazor.Shared.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.csprojAssemblyReference.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.pdb
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Shared\bin\Debug\netstandard2.1\MontadoraUBBlazor.Shared.deps.json
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Shared\bin\Debug\netstandard2.1\MontadoraUBBlazor.Shared.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Shared\bin\Debug\netstandard2.1\MontadoraUBBlazor.Shared.pdb
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.csprojAssemblyReference.cache
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.csproj.CoreCompileInputs.cache
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.AssemblyInfoInputs.cache
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.AssemblyInfo.cs
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.dll
+C:\Users\wcwil\Desktop\Programação Web\MontadoraBlazor-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Shared\bin\Debug\netstandard2.1\MontadoraUBBlazor.Shared.deps.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Shared\bin\Debug\netstandard2.1\MontadoraUBBlazor.Shared.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Shared\bin\Debug\netstandard2.1\MontadoraUBBlazor.Shared.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.csprojAssemblyReference.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazor-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.pdb
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Shared\bin\Debug\netstandard2.1\MontadoraUBBlazor.Shared.deps.json
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Shared\bin\Debug\netstandard2.1\MontadoraUBBlazor.Shared.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Shared\bin\Debug\netstandard2.1\MontadoraUBBlazor.Shared.pdb
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.csprojAssemblyReference.cache
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.csproj.CoreCompileInputs.cache
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.AssemblyInfoInputs.cache
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.AssemblyInfo.cs
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.dll
+C:\Users\wcwil\Desktop\Blazor\Blazor-Montadora-master\MontadoraBlazor-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Shared\bin\Debug\netstandard2.1\MontadoraUBBlazor.Shared.deps.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Shared\bin\Debug\netstandard2.1\MontadoraUBBlazor.Shared.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Shared\bin\Debug\netstandard2.1\MontadoraUBBlazor.Shared.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.csprojAssemblyReference.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraBlazorV23-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.pdb
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Shared\bin\Debug\netstandard2.1\MontadoraUBBlazor.Shared.deps.json
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Shared\bin\Debug\netstandard2.1\MontadoraUBBlazor.Shared.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Shared\bin\Debug\netstandard2.1\MontadoraUBBlazor.Shared.pdb
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.csprojAssemblyReference.cache
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.csproj.CoreCompileInputs.cache
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.AssemblyInfoInputs.cache
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.AssemblyInfo.cs
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.dll
+C:\Users\wcwil\Desktop\Programação Web\BlazorBDMontadora-master\MontadoraBlazorV23-master\MontadoraUBBlazor\Shared\obj\Debug\netstandard2.1\MontadoraUBBlazor.Shared.pdb

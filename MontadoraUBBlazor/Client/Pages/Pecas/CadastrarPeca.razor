@@ -1,0 +1,42 @@
+﻿@page "/pecas/cadastropecas"
+@inject HttpClient http
+@inject NavigationManager navigation
+<h3>Cadastrar Peças</h3>
+
+<EditForm Model="@peca" OnValidSubmit="@CadastrarPecas">
+    <div class="form-group">
+        <label>Nome da Peça</label>
+        <InputText @bind-Value="@peca.NomePeca"></InputText>
+    </div>
+
+    <div class="form-group">
+        <label>Valor Unit. da Peça</label>
+        <InputNumber @bind-Value="@peca.ValorUnitPeca"></InputNumber>
+    </div>
+
+    <div class="form-group">
+        <label>ID Fornecedor</label>
+        <InputNumber @bind-Value="@peca.IDFornecedorPeca"></InputNumber>
+    </div>
+
+    <div class="form-group">
+        <label>Nome do Fornecedor</label>
+        <InputText @bind-Value="@peca.NomeFornecedorPeca"></InputText>
+    </div>
+
+    <div class="form-group">
+        <label>Codigo da Peça</label>
+        <InputText @bind-Value="@peca.CodigoPeca"></InputText>
+    </div>
+
+    <button type="submit" class="btn btn-primary" @onclick="@(async () => await CadastrarPecas())">Cadastrar</button>
+</EditForm>
+@code {
+    Peca peca = new Peca();
+    async Task CadastrarPecas()
+    {
+        await http.PostAsJsonAsync("api/peca", peca);
+        navigation.NavigateTo("pecas");
+    }
+}
+

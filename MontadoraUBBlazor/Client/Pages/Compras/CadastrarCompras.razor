@@ -1,0 +1,73 @@
+﻿@page "/compras/cadastrocompras"
+@inject HttpClient http
+@inject NavigationManager navigation
+<h3>Cadastrar Compras</h3>
+
+<EditForm Model="@compra" OnValidSubmit="@CadastrarCompra">
+    <div class="form-group">
+        <label>Nome Da Peça Comprada</label>
+        <InputText @bind-Value="@compra.NomePecaCompra"></InputText>
+    </div>
+
+    <div class="form-group">
+        <label>ID da Peça comprada</label>
+        <InputNumber @bind-Value="@compra.IDPecaCompra"></InputNumber>
+    </div>
+
+    <div class="form-group">
+        <label>Codigo da peça comprada</label>>
+        <InputText @bind-Value="@compra.CodigoPecaCompra"></InputText>
+    </div>
+
+    <div class="form-group">
+        <label>Valor Unit. Peça Comprada</label>
+        <InputNumber @bind-Value="@compra.ValorUnitPecaCompra"></InputNumber>
+    </div>
+
+    <div class="form-group">
+        <label>Qtd. Peças Compradas</label>
+        <InputNumber @bind-Value="@compra.QtdPecaCompra"></InputNumber>
+    </div>
+
+    <div class="form-group">
+        <label>Valor Total da Compra</label>
+        <InputNumber @bind-Value="@compra.ValorTotalCompra"></InputNumber>
+    </div>
+
+    <div class="form-group">
+        <label>ID do Fornecedor</label>
+        <InputNumber @bind-Value="@compra.IDFornecedorCompra"></InputNumber>
+    </div>
+
+    <div class="form-group">
+        <label>Nome do fornecedor</label>
+        <InputText @bind-Value="@compra.NomeFornecedorCompra"></InputText>
+    </div>
+
+    <div class="form-group">
+        <label>ID do funcionario</label>
+        <InputNumber @bind-Value="@compra.IDFuncionarioCompra"></InputNumber>
+    </div>
+
+    <div class="form-group">
+        <label>Nome do funcionario</label>
+        <InputText @bind-Value="@compra.NomeFuncionarioCompra"></InputText>
+    </div>
+
+    <div class="form-group">
+        <label>Data da compra</label>
+        <InputDate @bind-Value="@compra.DataCompra"></InputDate>
+    </div>
+
+    <button type="submit" class="btn btn-primary" @onclick="@(async () => await CadastrarCompra())">Cadastrar</button>
+</EditForm>
+@code {
+    Compra compra = new Compra();
+    async Task CadastrarCompra()
+    {
+        await http.PostAsJsonAsync("api/compra", compra);
+        navigation.NavigateTo("compras");
+    }
+
+
+}

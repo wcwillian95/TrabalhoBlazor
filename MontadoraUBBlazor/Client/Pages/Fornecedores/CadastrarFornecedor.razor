@@ -1,0 +1,42 @@
+﻿@page "/fornecedores/cadastrofornecedores"
+@inject HttpClient http
+@inject NavigationManager navigation
+<h3>Cadastrar Fornecedores</h3>
+
+<EditForm Model="@fornecedor" OnValidSubmit="@CadastrarFornecedores">
+    <div class="form-group">
+        <label>Nome do Fornecedor</label>
+        <InputText @bind-Value="@fornecedor.NomeFornecedor"></InputText>
+    </div>
+
+    <div class="form-group">
+        <label>CNPJ</label>
+        <InputText @bind-Value="@fornecedor.CNPJFornecedor"></InputText>
+    </div>
+
+    <div class="form-group">
+        <label>Telefone do Fornecedor</label>
+        <InputText @bind-Value="@fornecedor.TelefoneFornecedor"></InputText>
+    </div>
+
+    <div class="form-group">
+        <label>E-mail do Fornecedor</label>
+        <InputText @bind-Value="@fornecedor.EmailFornecedor"></InputText>
+    </div>
+
+    <div class="form-group">
+        <label>Data de Cadastro do Fornecedor</label>
+        <InputDate @bind-Value="@fornecedor.DataCadastroFornecedor"></InputDate>
+    </div>
+
+    <button type="submit" class="btn btn-primary" @onclick="@(async () => await CadastrarFornecedores())">Cadastrar</button>
+</EditForm>
+@code {
+    Fornecedor fornecedor = new Fornecedor();
+    async Task CadastrarFornecedores()
+    {
+        await http.PostAsJsonAsync("api/fornecedor", fornecedor);
+        navigation.NavigateTo("fornecedores");
+    }
+}
+

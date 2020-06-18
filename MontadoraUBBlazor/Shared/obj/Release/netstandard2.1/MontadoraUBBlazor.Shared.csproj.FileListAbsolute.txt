@@ -1,0 +1,9 @@
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Shared\bin\Release\netstandard2.1\MontadoraUBBlazor.Shared.deps.json
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Shared\bin\Release\netstandard2.1\MontadoraUBBlazor.Shared.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Shared\bin\Release\netstandard2.1\MontadoraUBBlazor.Shared.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Shared\obj\Release\netstandard2.1\MontadoraUBBlazor.Shared.csprojAssemblyReference.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Shared\obj\Release\netstandard2.1\MontadoraUBBlazor.Shared.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Shared\obj\Release\netstandard2.1\MontadoraUBBlazor.Shared.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Shared\obj\Release\netstandard2.1\MontadoraUBBlazor.Shared.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Shared\obj\Release\netstandard2.1\MontadoraUBBlazor.Shared.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\MontadoraUBBlazor\Shared\obj\Release\netstandard2.1\MontadoraUBBlazor.Shared.pdb

@@ -1,0 +1,66 @@
+﻿@page "/pecas/listapecas"
+@page "/pecas/"
+@using MontadoraUBBlazor.Shared.Models
+@inject HttpClient http
+<h3>Lista de Peças</h3>
+
+<div>
+    <a href="/pecas/cadastropecas" class="btn btn-primary">Cadastrar Peças</a>
+</div>
+
+<div>
+    @if (pecas == null)
+    {
+        <text>Carregando...</text>
+    }
+    else if (pecas.Count == 0)
+    {
+        <text>Nenhuma Peça foi cadastrada no banco de dados</text>
+    }
+    else
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th> Nome da Peça </th>
+                    <th> Valor Unit. por Peça </th>
+                    <th> Nome do Fornecedor da Peça </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var peca in pecas)
+                {
+                <tr>
+                    <td>@peca.NomePeca</td>
+                    <td>@peca.ValorUnitPeca</td>
+                    <td>@peca.NomeFornecedorPeca</td>
+                    <td>
+                        <button class="btn btn-danger" @onclick="@(() => ExcluirPeca(peca.ID))">Excluir</button>
+                    </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>
+
+@code {
+    List<Peca> pecas;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadPecas();
+    }
+
+    async Task LoadPecas()
+    {
+        pecas = await http.GetFromJsonAsync<List<Peca>>("api/peca");
+    }
+
+    async Task ExcluirPeca(int ID)
+    {
+        await http.DeleteAsync($"api/peca/{ID}");
+        await LoadPecas();
+
+    }
+}

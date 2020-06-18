@@ -1,0 +1,68 @@
+﻿@page "/clientes/listaclientes"
+@page "/clientes"
+@using MontadoraUBBlazor.Shared.Models
+@inject HttpClient http
+<h3>Lista de Clientes</h3>
+
+<div>
+    <a href="/clientes/cadastroclientes" class="btn btn-primary">Cadastrar cliente</a>
+</div>
+
+<div>
+    @if (clientes == null)
+    {
+        <text>Nenhum Cliente foi cadastrado no banco de dados</text>
+    }
+    else
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th> Id </th>
+                    <th> Nome </th>
+                    <th> CPF </th>
+                    <th> Data de Nascimento </th>
+                    <th> Cidade </th>
+                    <th> Data de cadastro do cliente </th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var cliente in clientes)
+                {
+                <tr>
+                    <td>@cliente.ID</td>
+                    <td>@cliente.NomeCliente</td>
+                    <td>@cliente.CPFCliente</td>
+                    <td>@cliente.NascimentoCliente</td>
+                    <td>@cliente.CidadeCliente</td>
+                    <td>@cliente.DataCadastroCliente</td>
+                    <td>
+                        <button class="btn btn-danger" @onclick="@(() => ExcluirCliente(cliente.ID))">Excluir</button>
+                    </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>
+
+@code {
+    List<Cliente> clientes;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadClientes();
+    }
+
+    async Task LoadClientes()
+    {
+        clientes = await http.GetFromJsonAsync<List<Cliente>>("api/cliente");
+    }
+
+    async Task ExcluirCliente(int ID) 
+    {
+        await http.DeleteAsync($"api/cliente/{ID}");
+        await LoadClientes();
+    }
+}

@@ -1,0 +1,89 @@
+﻿@page "/funcionarios/listafuncionarios"
+@page "/funcionarios/"
+@using MontadoraUBBlazor.Shared.Models
+@inject HttpClient http
+<h3>Lista de Fornecedores</h3>
+
+<div>
+    <a href="/funcionarios/cadastrofuncionarios" class="btn btn-primary">Cadastrar Funcionarios</a>
+</div>
+
+<div>
+    @if (funcionarios == null)
+    {
+        <text>Carregando...</text>
+    }
+    else if (funcionarios.Count == 0)
+    {
+        <text>Nenhuma compra foi cadastrada no banco de dados</text>
+    }
+    else
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th> Id </th>
+                    <th> Nome </th>
+                    <th> CPF </th>
+                    <th> Telefone</th>
+                    <th> E-mail </th>
+                    <th> Rua e numero, apartamento e andar se for o caso </th>
+                    <th> Bairro </th>
+                    <th> Cidade </th>
+                    <th> Estado </th>
+                    <th> Data de Nascimento </th>
+                    <th> Data de entrada na empresa</th>
+                    <th> Data de saida da empresa</th>
+                    <th> Cargo </th>
+                    <th> Status </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var funcionarios in funcionarios)
+                {
+                <tr>
+                    <td>@funcionarios.ID</td>
+                    <td>@funcionarios.NomeFunc</td>
+                    <td>@funcionarios.CPFFunc</td>
+                    <td>@funcionarios.TelefoneFunc</td>
+                    <td>@funcionarios.EmailFunc</td>
+                    <td>@funcionarios.RuaFunc</td>
+                    <td>@funcionarios.BairroFunc</td>
+                    <td>@funcionarios.CidadeFunc</td>
+                    <td>@funcionarios.EstadoFunc</td>
+                    <td>@funcionarios.NascimentoFunc</td>
+                    <td>@funcionarios.EntradaFunc</td>
+                    <td>@funcionarios.SaidaFunc</td>
+                    <td>@funcionarios.CargoFunc</td>
+                    <td>@funcionarios.StatusFunc</td>
+                    <td>
+                        <button class="btn btn-danger" @onclick="@(() => ExcluirFuncionario(funcionarios.ID))">Excluir</button>
+                    </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>
+
+@code {
+    List<Funcionario> funcionarios;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadFuncionarios();
+    }
+
+    async Task LoadFuncionarios()
+    {
+        funcionarios = await http.GetFromJsonAsync<List<Funcionario>>("api/funcionarios");
+    }
+
+    async Task ExcluirFuncionario(int ID)
+    {
+        await http.DeleteAsync($"api/Funcionarios/{ID}");
+        await LoadFuncionarios();
+
+
+    }
+}

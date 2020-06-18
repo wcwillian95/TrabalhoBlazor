@@ -1,0 +1,81 @@
+﻿@page "/fornecedores/listafornecedores"
+@page "/fornecedores/"
+@using MontadoraUBBlazor.Shared.Models
+@inject HttpClient http
+<h3>Lista de Fornecedores</h3>
+
+<div>
+    <a href="/fornecedores/cadastrofornecedores" class="btn btn-primary">Cadastrar Fornecedores</a>
+</div>
+
+<div>
+    @if (fornecedores == null)
+    {
+        <text>Carregando...</text>
+    }
+    else if (fornecedores.Count == 0)
+    {
+        <text>Nenhuma compra foi cadastrada no banco de dados</text>
+    }
+    else
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th> Id </th>
+                    <th> Nome da Peça comprada </th>
+                    <th> ID Peça comprada </th>
+                    <th> Codigo da peça comprada </th>
+                    <th> Valor Unit. da peça comprada </th>
+                    <th> Qtd de peças </th>
+                    <th> Valor Total da compra </th>
+                    <th> ID do Fornecedor </th>
+                    <th> Nome do Fornecedor </th>
+                    <th> ID do Funcionario que fez a compra </th>
+                    <th> Nome do Funcionario que fez a compra </th>
+                    <th> Data de compra </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var fornecedor in fornecedores)
+                {
+                <tr>
+                    <td>@fornecedor.ID</td>
+                    <td>@fornecedor.NomeFornecedor</td>
+                    <td>@fornecedor.CNPJFornecedor</td>
+                    <td>@fornecedor.TelefoneFornecedor</td>
+                    <td>@fornecedor.EmailFornecedor</td>
+                    <td>@fornecedor.DataCadastroFornecedor</td>
+                    <td>
+                        <button class="btn btn-danger" @onclick="@(() => ExcluirFornecedor(fornecedor.ID))">Excluir</button>
+                    </td>
+                </tr>
+
+                }
+            </tbody>
+        </table>
+    }
+</div>
+
+@code {
+    List<Fornecedor> fornecedores;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadFornecedores();
+    }
+
+    async Task LoadFornecedores()
+    {
+        fornecedores = await http.GetFromJsonAsync<List<Fornecedor>>("api/fornecedor");
+    }
+
+    async Task ExcluirFornecedor(int ID)
+    {
+        await http.DeleteAsync($"api/fornecedor/{ID}");
+        await LoadFornecedores();
+
+
+    }
+
+}

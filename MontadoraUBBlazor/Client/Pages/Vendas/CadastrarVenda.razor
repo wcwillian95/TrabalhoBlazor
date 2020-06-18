@@ -1,0 +1,62 @@
+﻿@page "/vendas/cadastrovendas"
+@inject HttpClient http
+@inject NavigationManager navigation
+<h3>Cadastrar Vendas</h3>
+
+<EditForm Model="@venda" OnValidSubmit="@CadastrarVendas">
+    <div class="form-group">
+        <label>Codigo da Peça Vendida</label>
+        <InputText @bind-Value="@venda.CodPecaVenda"></InputText>
+    </div>
+
+    <div class="form-group">
+        <label>Quantidade de Peças</label>
+        <InputNumber @bind-Value="@venda.QtdPecaVenda"></InputNumber>
+    </div>
+
+    <div class="form-group">
+        <label>Valor Unit. da Peça</label>
+        <InputNumber @bind-Value="@venda.ValorUnitPecaVenda"></InputNumber>
+    </div>
+
+    <div class="form-group">
+        <label>Valor Total da Venda</label>
+        <InputNumber @bind-Value="@venda.ValorTotalVenda"></InputNumber>
+    </div>
+
+    <div class="form-group">
+        <label>ID Cliente</label>
+        <InputNumber @bind-Value="@venda.IDClienteVenda"></InputNumber>
+    </div>
+
+    <div class="form-group">
+        <label>Nome do Cliente</label>
+        <InputText @bind-Value="@venda.NomeClienteVenda"></InputText>
+    </div>
+
+    <div class="form-group">
+        <label>ID Funcionario</label>
+        <InputNumber @bind-Value="@venda.IDFuncVenda"></InputNumber>
+    </div>
+
+    <div class="form-group">
+        <label>Nome Cliente</label>
+        <InputText @bind-Value="@venda.NomeFuncVenda"></InputText>
+    </div>
+
+    <div class="form-group">
+        <label>Data da Venda</label>
+        <InputDate @bind-Value="@venda.DataVenda"></InputDate>
+    </div>
+
+    <button type="submit" class="btn btn-primary" @onclick="@(async () => await CadastrarVendas())">Cadastrar</button>
+</EditForm>
+@code {
+    Venda venda = new Venda();
+    async Task CadastrarVendas()
+    {
+        await http.PostAsJsonAsync("api/venda", venda);
+        navigation.NavigateTo("vendas");
+    }
+}
+

@@ -1,0 +1,71 @@
+﻿@page "/compras/listacompras"
+@page "/compras/"
+@using MontadoraUBBlazor.Shared.Models
+@inject HttpClient http
+<h3>Lista de Compras feitas pela empresa</h3>
+
+<div>
+    <a href="/compras/cadastrocompras" class="btn btn-primary">Cadastrar compras</a>
+</div>
+
+<div>
+    @if (compras == null)
+    {
+        <text>Nenhuma compra foi cadastrada no banco de dados</text>
+    }
+    else
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th> Nome da Peça comprada </th>
+                    <th> Valor Unit. da peça comprada </th>
+                    <th> Qtd de peças </th>
+                    <th> Valor Total da compra </th>
+                    <th> Nome do Fornecedor </th>
+                    <th> Nome do Funcionario que fez a compra </th>
+                    <th> Data de compra </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var compra in compras)
+                {
+                <tr>
+                    <td>@compra.NomePecaCompra</td>
+                    <td>@compra.ValorUnitPecaCompra</td>
+                    <td>@compra.QtdPecaCompra</td>
+                    <td>@compra.ValorTotalCompra</td>
+                    <td>@compra.NomeFornecedorCompra</td>
+                    <td>@compra.NomeFuncionarioCompra</td>
+                    <td>@compra.DataCompra</td>
+                    <td>
+                        <button class="btn btn-danger" @onclick="@(() => ExcluirCompra(compra.ID))">Excluir</button>
+                    </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>
+
+@code {
+        List<Compra> compras;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadCompras();
+    }
+
+    async Task LoadCompras()
+    {
+        compras = await http.GetFromJsonAsync<List<Compra>>("api/Compras");
+    }
+
+    async Task ExcluirCompra(int ID)
+    {
+        await http.DeleteAsync($"api/Compras/{ID}");
+        await LoadCompras();
+
+
+    }
+}
